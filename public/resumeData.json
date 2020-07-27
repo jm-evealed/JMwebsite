@@ -1,0 +1,108 @@
+{
+  "main": {
+    "name":"Johannes Muckel",
+    "occupation":"Program Manager",
+    "description":"7 years of Program Management experience on products of global scale with millions of MAUs",
+    "image":"profilepic.jpg",
+    "bio":"A bi-lingual creative spirit with a passion for delivering the best exeriences at global scale. I strive in challgenges and highly enjoy optimizing processes.",
+    "contactmessage":"Let's chat!",
+    "email": "johannes@muckel.work",
+    "address":{
+      "city":"Orinda",
+      "state":"California",
+      "zip": "94563"
+    },
+    "website": "http://www.muckel.work",
+    "resumedownload":"http://muckel.work",
+    "social":[
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/BrienneOfTarte",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/johannes-muckel-09b6b284/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/evealed_com/",
+        "className":"fa fa-instagram"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Creative Sr./ Program-/ Product Manager",
+    "education":[
+      {
+        "school":"Universität Paderborn",
+        "degree":"Bachelor of Arts - English Cultural Studies // Bachelor of Arts - English Linguistics",
+        "graduated":"October 2013",
+        "description":"I started University with one goal - become a teacher. After a lot of soul-searching, I discovered I love teaching and enabling others to do their best, but teaching in a school environment was not for me. I focused my studies onto English Cultural and Literary studies, as well as Linguistics. Being able to speak 2 languages has helped me approach problems from two different angles, as I found that structually you process issues differently in different languages."
+      }
+    ],
+    "work":[
+      {
+        "company":"Sony Interactive Entertainment",
+        "title":"Program Manager",
+        "years":"October 2016 - Present",
+        "description":"Working accross multiple value streams delivering Localization for highly-visible products on the PlayStation platform, be it on, or off-console. I am responsible for end-to-end delivery of Localization for all assigned projects, which includes establishing timelines, interactions with design, copy, product and QA, as well as outside vendors. In a nutshell: I make sure stuff looks and reads right internationally, always with the international customer in mind."
+      },
+      {
+        "company":"Sony Network Entertainment",
+        "title":"Associate Program Manager",
+        "years":"February 2015 - October 2016",
+        "description":"Delivering end-to-end localizations for PlayStation Network features, from the PS Store to Social Features. I shipped Firmware Versions 3 and onwards with translations and continouous improvements in international customer experience."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Github",
+        "level":"30%"
+      },
+      {
+        "name":"Leadership",
+        "level":"80%"
+      },
+      {
+        "name":"Jira",
+        "level":"75%"
+      },
+      {
+        "name":"Process Optimization",
+        "level":"85%"
+      },
+      {
+        "name":"Mentoring",
+        "level":"70%"
+      },
+      {
+        "name":"Agile Development",
+        "level":"80%"
+      }
+    ]
+  },
+"portfolio":{
+  "projects": [
+    {
+      "title":"Music",
+      "category":"My SoundCloud page",
+      "image":"logo-2.jpg",
+      "url":"https://soundcloud.com/johannes-muckel"
+    }
+   ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Anne Kriesel - Founder/CEO bohana.de"
+      },
+      {
+        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Virginia Suarez - Program Manager SIE"
+      }
+    ]
+  }
+}
